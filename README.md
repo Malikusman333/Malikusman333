@@ -27,6 +27,10 @@ Hi, I’m Muhammad Usman 👋<br>I’m a frontend developer focused on building 
 ![](https://github-readme-stats.vercel.app/api?username=Malikusman333&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Malikusman333&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Malikusman333&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Malikusman333&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Malikusman333&icon=0&color=0)](https://visitcount.itsvg.in)
 
